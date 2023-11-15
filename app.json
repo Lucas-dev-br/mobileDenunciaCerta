@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "DenunciaCerta",
+    "slug": "DenunciaCerta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
